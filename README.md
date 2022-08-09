@@ -1,6 +1,6 @@
 <article>
   <div>
-    <h3 align="center">⚫ ...<i>Raphis</i> ⚫</h3>
+    <h3 align="center">☁ ...<i>Raphis</i> 🔘</h3>
   </div>
   <p align="center">
     <a href="https://twitter.com/Raphis_____"> Twitter </a>
