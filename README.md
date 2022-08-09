@@ -1,16 +1,41 @@
-### Hi there 👋
+<article>
+  <div>
+    <h3 align="center">⚫ ...<i>Raphis</i> ⚫</h3>
+  </div>
+  <p align="center">
+    <a href="https://twitter.com/Raphis_____"> Twitter </a>
+     ∼ 
+    <a href="https://www.youtube.com/channel/UCRiaivH1MtlQhBzdoqcleJw"> YouTube </a>
+     ∼ 
+    <a href="https://steamcommunity.com/id/Raphis65"> Steam </a>
+  </p>
+  
+ <hr>
+ 
+  <p>
+    <b>Nome:</b> <i>Raphael Otto</i> <br>
+    <b>Turma:</b> <i>2 Info 2</i> <br>
+    <b>Idade:</b> <i>17</i> <br>
+    <b>Sobre:</b> <i>Segue minhas coisas la</i>
+  </p>
+    
+ <hr>
+ 
+  <p>
+    ⠄⠄⠄⠄⠄⠄⠄⠄⢀⡴⠖⠒⠒⠒⠒⠲⢦⣄⠄⠄⠄<br>
+    ⠄⠄⠄⠄⠄⠄⠄⢀⡾⠁⣀⣀⣀⣀⣀⣀⠄⠙⢷⡀⠄<br>
+    ⠄⠄⠄⠄⠄⠄⠄⣼⠃⢸⣿⣄⣀⣀⣀⣉⣿⠄⠈⣷⠄<br>
+    ⠄⠄⠄⠄⠄⠄⢸⡏⠄⠄⠈⠛⠛⠛⠛⠉⠁⠄⠄⢸⡇<br>
+    ⠄⠄⠄⠄⠄⠄⡸⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⣇<br>
+    ⠄⠄⠄⠄⠄⢀⡇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿<br>
+    ⠄⠄⠄⠄⠄⣸⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿<br>
+    ⠄⠄⠄⠄⢀⡿⠄⠄⢀⣀⡠⠤⠤⠤⣄⠄⠄⠄⠄⠄⢹<br>
+    ⠄⢀⣀⡀⣸⡇⠄⠄⢸⡇⠄⠄⠄⠄⢸⡇⠄⠄⠄⠄⢸<br>
+    ⣾⠋⠉⠉⠉⠄⠄⠄⢈⡧⠄⠄⠄⠄⣸⠇⠄⠄⠄⠄⣸<br>
+    ⠈⠓⠶⠤⠤⠶⠶⠶⠋⠁⠄⣶⠋⠉⠉⠄⠄⠄⠄⢀⡿<br>
+    ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠛⠢⠤⠤⣤⠤⠴⠒⠋⠁<br>
+    amogus
+  </p>
 
-<!--
-**Raphael-Otto/Raphael-Otto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</article>
+  
