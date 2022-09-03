@@ -6,8 +6,6 @@
     <a href="https://twitter.com/Raphis_____"> Twitter </a>
      ∼ 
     <a href="https://www.youtube.com/channel/UCRiaivH1MtlQhBzdoqcleJw"> YouTube </a>
-     ∼ 
-    <a href="https://steamcommunity.com/id/Raphis65"> Steam </a>
   </p>
   
  <hr>
