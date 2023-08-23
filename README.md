@@ -12,8 +12,8 @@
  
   <p>
     <b>Nome:</b> <i>Raphael Otto</i> <br>
-    <b>Turma:</b> <i>2 Info 2</i> <br>
-    <b>Idade:</b> <i>17</i> <br>
+    <b>Turma:</b> <i>3 Info 2</i> <br>
+    <b>Idade:</b> <i>18</i> <br>
     <b>Sobre:</b> <i>Segue minhas coisas la</i> <br>
        ᲼᲼᲼᲼ ᲼ <del><i>e sim o coelho é meu</i></del>
   </p>
