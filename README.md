@@ -1,8 +1,8 @@
 <article>
   <p align="center">
-    <b>N̸̙̹͌ö̴̡́m̸̡͈͐͌ę̴̧͒͘:̶̩̀͊</b> ./.n/<i>Raphael Otto</i> <br>
-    <b>T̸̤̄ů̶̲r̷̼͝m̸̭̈a̴̗̋:̶̞͘</b> /.t/<i>3 Info 2</i> <br>
-    <b>I̴d̸a̷d̴e̷:̷</b> ./i/<i>18</i> <br>
+    <b>N̸̙̹͌ö̴̡́m̸̡͈͐͌ę̴̧͒͘:̶̩̀͊</b> ./.n/<i>Raphael+Otto</i> <br>
+    <b>T̸̤̄ů̶̲r̷̼͝m̸̭̈a̴̗̋:̶̞͘</b> /.t/<i>3_Info-2</i> <br>
+    <b>I̴d̸a̷d̴e̷:̷</b> ./i/<i>18y</i> <br>
     <br>
   </p>
   <p align="center">
