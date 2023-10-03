@@ -1,10 +1,9 @@
 <article>
   <p align="center">
-    <a href="https://twitter.com/Raphis_____"> Twitter ̴̖͐ ̷̨̓ ̶͔͂ ̸̲̀ ̶̧̈́ ̸̗̎ ̴͎̓ ̴͖͗ ̷͓̅ ̴̯͛ ̶̩͗ ̴̨̈ ̵͔̓ ̸͚̿ ̶̞͂ ̵͖͐ ̶̞͐ ̵̠͘ ̸̬̍ ̸̙̓ ̸̱́ ̷̲͝ ̷̜͛ ̴͎͝ ̶̺̈́ ̷̢̿ ̴͚͘ ̴͕̒ ̶͓́ ̵͉̌ ̶͚͊ ̸̳̃ ̷͉̎ ̵̙̓ ̵̺͘ ̴͚͗ ̴̛̺ ̶̖̐ ̴̻̊ ̸̨̀ ̷̼͋ ̴̜̂ ̸̗͠ ̵͚͘ ̴̗͋ ̷̣̑ ̷̜̀ ̴̹́ ̶̡̅ ̷̹̕ ̸̻̏ ̵̳͐ ̴͐ͅ ̶̟̎ ̷͍͝ ̵͖̉ ̷̹͒ </a>
+    <a href="https://twitter.com/Raphis_____"> Twitter </a>
      ∼
     <a href="https://www.youtube.com/channel/UCRiaivH1MtlQhBzdoqcleJw"> YouTube </a>
   </p>
-<hr>
   <p>
     <b>N̴̩̣̥̋ǫ̵̡̛͕̖̩͈̆͒m̴̡̨̛͇̹̥̮͛̈̈́́ẹ̴̟̻̬̗̰̘͊̇̎͜:̸́͂͑͜</b> <i>Raphael Otto</i> <br>
     <b>T̸̨͍̭̥̪͗̐̚͠ͅȕ̸̮̳̙͚̀̀̓͑͘r̵̻̺̟̐̌̓̎̽m̵͍͎̤͆̏͝a̵̝̺̮͘͠͠:̷͙̝̄̉͜</b> <i>3 Info 2</i> <br>
