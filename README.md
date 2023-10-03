@@ -1,10 +1,9 @@
 <article>
-  <p>
+  <p align="center">
     <b>N̸̙̹͌ö̴̡́m̸̡͈͐͌ę̴̧͒͘:̶̩̀͊</b> ./.n/<i>Raphael Otto</i> <br>
     <b>T̸̤̄ů̶̲r̷̼͝m̸̭̈a̴̗̋:̶̞͘</b> /.t/<i>3 Info 2</i> <br>
     <b>I̴d̸a̷d̴e̷:̷</b> ./i/<i>18</i> <br>
     <br>
-    <del><i>e sim o coelho é meu</i></del>
   </p>
   <p align="center">
     <a href="https://twitter.com/Raphis_____"> Twitter </a>
