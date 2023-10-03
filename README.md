@@ -1,14 +1,14 @@
 <article>
-  <p align="center">
-    <a href="https://twitter.com/Raphis_____"> Twitter </a>
-     ∼
-    <a href="https://www.youtube.com/channel/UCRiaivH1MtlQhBzdoqcleJw"> YouTube </a>
-  </p>
   <p>
     <b>N̴̩̣̥̋ǫ̵̡̛͕̖̩͈̆͒m̴̡̨̛͇̹̥̮͛̈̈́́ẹ̴̟̻̬̗̰̘͊̇̎͜:̸́͂͑͜</b> <i>Raphael Otto</i> <br>
     <b>T̸̨͍̭̥̪͗̐̚͠ͅȕ̸̮̳̙͚̀̀̓͑͘r̵̻̺̟̐̌̓̎̽m̵͍͎̤͆̏͝a̵̝̺̮͘͠͠:̷͙̝̄̉͜</b> <i>3 Info 2</i> <br>
     <b>Ï̴̬̥͋͠d̶̳͌̓̀a̵̫̘̫̺͋͑̕d̴͕͆̚e̵͍̥̭̋:̴͔̠̱͍̄</b> <i>18</i> <br>
     <del><i>e sim o coelho é meu</i></del>
+  </p>
+  <p align="center">
+    <a href="https://twitter.com/Raphis_____"> Twitter </a>
+     ∼
+    <a href="https://www.youtube.com/channel/UCRiaivH1MtlQhBzdoqcleJw"> YouTube </a>
   </p>
 <hr>
  <div align="center">
