@@ -3,7 +3,7 @@
     <b>N̸̙̹͌ö̴̡́m̸̡͈͐͌ę̴̧͒͘:̶̩̀͊</b> <i>Raphael Otto</i> <br>
     <b>T̸̤̄ů̶̲r̷̼͝m̸̭̈a̴̗̋:̶̞͘</b> <i>3 Info 2</i> <br>
     <b>I̴d̸a̷d̴e̷:̷</b> <i>18</i> <br>
-    <b>.̷̢̩̙͙̮̭͙̐͠ͅͅ.̶̘̆̇̈̆̾̈́ͅ.̴̧̛͚̼̐̄͌.̷̢̳̫͔̟̬̱̗͒̊̏͠͝.̸̖̆̉̆̊́͝͝.̴̛̬̅͐͂͛̿̈́͋̕</b> <br>
+    <br>
     <del><i>e sim o coelho é meu</i></del>
   </p>
   <p align="center">
